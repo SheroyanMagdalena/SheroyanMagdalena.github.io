@@ -1,6 +1,5 @@
-
-/*alert("1. sum, 2.difference, 3. product, 4. quotient, 5. remainder  ")
-
+/*
+alert("1. sum, 2.difference, 3. product, 4. quotient, 5. remainder  ")
 let a, b;
 a = prompt("input number a = ");
 b = prompt("input number b = ");
